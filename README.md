@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Sagar Goud 👋
 
-<!--
-**TheSagarGoud/TheSagarGoud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE (AI & ML) | Expected 2027
+📊 Aspiring Data Analyst & AI Engineer
+💻 Python | SQL | Excel | Machine Learning
+🌱 Currently learning Data Analytics, ML, and Software Development
 
-Here are some ideas to get you started:
+## Skills
+- Python
+- SQL
+- Excel
+- R
+- Machine Learning
+- Data Visualization
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- Handwritten Digit Identification using Python
+- Laptop Price Analysis
+
+## Connect
+LinkedIn: www.linkedin.com/in/sagar-goud
+Email: sagargoudgarpally@gmail.com
